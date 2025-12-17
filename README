@@ -1,0 +1,22 @@
+Hotel Booking Management System (Python, Tkinter, MySQL)
+
+Description:
+A desktop-based hotel management system developed using Python and Tkinter with MySQL database.
+The system manages customer details, room bookings, and billing information.
+
+Technologies Used:
+- Python
+- Tkinter
+- MySQL (Workbench)
+
+Features:
+- Add and manage customer records
+- Room booking and check-in/check-out handling
+- Data storage and retrieval using MySQL
+- Simple GUI for user interaction
+
+How to Run:
+1. Install Python
+2. Set up MySQL database and tables
+3. Update database credentials in code
+4. Run main.py
